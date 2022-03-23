@@ -1,0 +1,27 @@
+header {
+ font-family: Futura, Trebuchet MS;
+ font-weight: bold condensed;
+ color: #AC2B37; 
+ font-size: 25px;
+ text-align: center;
+}
+
+#WPI{
+    /*center the image*/
+    display: block; 
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;}
+
+h1 {
+ font-family: Futura, Trebuchet MS;
+ color: #A9B0B7; 
+ font-size: 23px;
+ text-align: center;
+}
+
+body {
+ font-family: Futura, Trebuchet MS;
+ color: #000000; 
+ font-size: 15px;
+}
